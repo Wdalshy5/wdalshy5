@@ -42,5 +42,4 @@ I’m looking for a dedicated partner to build **Health-Tech applications** or h
 
 ### 📫 Connect with me:
 - **GitHub:** [@Wdalshykh](https://github.com/Wdalshykh)
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [gmail](www.mohamedalhawa06@gmail.com)
+- **Email:** [Email](https://www.mohamedalhawa06@gmail.com)
