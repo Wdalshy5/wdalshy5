@@ -11,7 +11,7 @@ I am a **4th-year Medical Student** and a **Full-Stack Developer** with 5+ years
 
 ---
 ### 🐍 My Contribution Snake
-![snake github contribution grid snail animation](https://raw.githubusercontent.com/Wdalshykh/Wdalshykh/output/github-snake-dark.svg)
+![snake github contribution grid snail animation](https://raw.githubusercontent.com/Wdalshy5/wdalshy5/output/github-snake-dark.svg)
 
 ### 🛠 My Technical Toolkit
 
